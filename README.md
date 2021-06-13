@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 </div>
 
-[![epsilon-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsilon-d)](https://github.com/epsilon-d)
+[![epsilon-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsilon-d&show_icons=true)](https://github.com/epsilon-d)
