@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/epsilon-d)](https://github.com/epsilon-d) 
 
 </div>
+
+[![epsilon-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsilon-d)](https://github.com/epsilon-d)
